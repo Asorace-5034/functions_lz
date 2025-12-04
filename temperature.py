@@ -7,4 +7,6 @@ def main():
     temperature(gradus)
 
 if __name__ == "__main__":                              #Выполнение кода, если он запущен как самостоятельный файл
+
     main()
+    
